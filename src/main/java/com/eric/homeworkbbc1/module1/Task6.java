@@ -1,4 +1,4 @@
-package com.eric.homeworkbbc1;
+package com.eric.homeworkbbc1.module1;
 
 import java.util.Scanner;
 
